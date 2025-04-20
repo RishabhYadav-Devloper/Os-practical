@@ -40,3 +40,21 @@ int main() {
     printf("\nAverage Turn Around time = %d\n",avtat/n);
     return 0;
 }
+
+
+
+
+
+
+
+// Title: Write a program to demonstrate the concept of non-preemptive scheduling algorithms.
+// Aim: To implement non preemptive scheduling algorithm in C (FCFS)
+// Theory:
+// The CPU Scheduling is the process by which a process is executed by the using the resources of
+// the CPU. The process also can wait due to the absence or unavailability of the resources.
+// First Come First Serve Scheduling Algorithm
+// This is the first type of CPU Scheduling Algorithms. Here, in this CPU Scheduling Algorithm
+// we are going to learn how CPU is going to allot resources to the certain process.
+// Here, in the First Come First Serve CPU Scheduling Algorithm, the CPU allots the resources to
+// the process in a certain order. The order is serial way. The CPU is allotted to the process in
+// which it has occurred.
